@@ -1,4 +1,14 @@
+/*
+* Click nbfs://nbhost/SystemFileSystem/Templates/license-default.txt
+*/
 
+package com.mycompany.poeproject1;
+
+/**
+*
+*
+* @author Student
+*/
 
 import java.util.Scanner;
 
